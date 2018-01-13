@@ -1,0 +1,2 @@
+# Bargain-Shopping-Mall
+Create connected and inherited spaces to implement a text-based game. Create different stores (connected spaces) to shop from. Each day there is a different sale. Player starts with x amount of cash and can win additional by playing a scratch ticket. Goal is to collect items to complete and outfit. You will lose if you run out of cash or attempt to go negative when shopping.
